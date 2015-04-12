@@ -1,0 +1,20 @@
+body {
+background-image: url("../static/d.jpg")
+}
+
+#title {
+color: orange;
+font-size: 40px;
+}
+#qwer {
+color: white;
+font-size: 20px;
+font-family: "Segoe Print"
+}
+form{
+font-size: 30px;
+}
+button:hover{
+       font-weight: bold;
+       color: olive;
+}
