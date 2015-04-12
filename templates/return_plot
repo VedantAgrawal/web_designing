@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>return plot</title>
+<link rel="stylesheet" type="text/css" href="../static/plot.css">
+</head>
+<body>
+	<div>
+	<marquee><h1>THE PLOT OF RESULTING POLYNOMIAL</h1></marquee>
+	</div>
+	<br>
+	<center><h2>{{poly}}</h2></center>
+	<center><img src={{figure}}/></center>
+</body>
+</html>
