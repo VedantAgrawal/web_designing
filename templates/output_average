@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>output average</title>
+<link rel="stylesheet" type="text/css" href="../static/avg.css"> 
+</head>
+<body>
+	<marquee><p id="qwer">RESULT</p></marquee><br/>
+	<center><p id="qwer">Average is {{average}}</p></center>
+</body>
+</html>
