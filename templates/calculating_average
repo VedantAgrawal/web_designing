@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+	<title>CALCULATING THE AVERAGE OF NUMBERS</title>
+        <link rel="stylesheet" type="text/css" href="../static/avg.css" media="screen">
+ </head>
+
+ <body>
+	<marquee><p id="title">CALCULATING AVERAGE OF NUMBERS</p></marquee>
+	<center><form method="post">
+		<center><p id="qwer">Enter the comma separated numbers for taking their average</p></center></br>
+		<input type="text" name="string"></br>
+		<center><button type="submit">AVERAGE</button></center>
+	</form></center>
+ </body>
+</html>
+ 
